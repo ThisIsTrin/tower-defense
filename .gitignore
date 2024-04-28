@@ -1,0 +1,12 @@
+# Project place file
+/tower-defense.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Remodel have error in it, source code taken from below
+# https://lune-org.github.io/docs/roblox/3-remodel-migration
+remodel.luau
+
+/Packages
